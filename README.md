@@ -1,2 +1,15 @@
-# todo_list_kuberbet_new
-This my 1st kubernet assignmrnts
+# node-todo-cicd
+
+Run these commands:
+
+
+sudo apt install nodejs
+
+
+sudo apt install npm
+
+
+sudo npm install
+
+node app.js
+# END THE 
